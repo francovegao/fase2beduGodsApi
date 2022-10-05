@@ -18,7 +18,9 @@
     "express-jwt": "^7.7.5",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
-    "sequelize": "^6.23.1",
-    "sqlite3": "^5.1.1"
+    "sequelize": "^6.23.1"
+  },
+  "devDependencies": {
+    "sqlite3": "^5.1.2"
   }
 }
