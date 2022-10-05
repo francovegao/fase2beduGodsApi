@@ -1,5 +1,5 @@
 {
-  "name": "sesion05",
+  "name": "sesion08",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -18,6 +18,8 @@
     "express-jwt": "^7.7.5",
     "passport": "^0.6.0",
     "passport-local": "^1.0.0",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
     "sequelize": "^6.23.1"
   },
   "devDependencies": {
